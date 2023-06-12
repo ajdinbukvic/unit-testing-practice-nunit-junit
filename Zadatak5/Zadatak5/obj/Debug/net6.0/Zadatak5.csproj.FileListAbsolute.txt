@@ -1,0 +1,12 @@
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\obj\Debug\net6.0\Zadatak5.csproj.AssemblyReference.cache
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\obj\Debug\net6.0\Zadatak5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\obj\Debug\net6.0\Zadatak5.AssemblyInfoInputs.cache
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\obj\Debug\net6.0\Zadatak5.AssemblyInfo.cs
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\obj\Debug\net6.0\Zadatak5.csproj.CoreCompileInputs.cache
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\bin\Debug\net6.0\Zadatak5.deps.json
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\bin\Debug\net6.0\Zadatak5.dll
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\bin\Debug\net6.0\Zadatak5.pdb
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\obj\Debug\net6.0\Zadatak5.dll
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\obj\Debug\net6.0\refint\Zadatak5.dll
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\obj\Debug\net6.0\Zadatak5.pdb
+C:\Users\DT User3\Desktop\Zadatak5\Zadatak5\obj\Debug\net6.0\ref\Zadatak5.dll
